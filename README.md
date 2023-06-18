@@ -1,14 +1,20 @@
-<div align='center'>
+<p align="center">
+  <img width="150" alt="Logo Reduxjs Toolkit" src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="150" alt="Logo React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" />
+</p>
 
-<img width=80 alt="Logo Reduxjs Toolkit" src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg">
+<p align="center">
+  <strong>Reduxjs Toolkit &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;React Native</strong>
+</p>
 
-## Reduxjs Toolkit
 
-<img width=80 alt="Logo React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png">
+<!-- <img width=80 align="left" alt="Logo Reduxjs Toolkit" src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg">
+<br>
+<p align="left">Reduxjs Toolkit</p>
 
-## React Native
+<img width=80 align="left" alt="Logo React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png">
+<br>
+<p align="left">React Native</p> -->
 
-</div>
 <br>
 
 # Project 📋️
