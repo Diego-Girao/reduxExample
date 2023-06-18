@@ -10,25 +10,29 @@
 
 </div>
 
-## References
+# Project 📋️
+
+Create a simple and functional counter example, using React Native and Reduxjs Toolkit to state management.
+
+## References 📚️
 
 - [React Native](https://reactnative.dev)
 - [Reduxjs Toolkit](https://redux-toolkit.js.org)
 
-## Stack
+## Stack 🧑‍💻️
 
 **Front-end:** Javascript, React Native and Reduxjs Toolkit
 
-## Functions
+## Functions ⚙️
 
 - [x] Counter
 - [x] Increment Counter
 - [x] Decrement Counter
 
-## Learning
+## Learning 🎯️
 
-How to use reduxjs toolkit with a simple and funcitonal example.
+How to use reduxjs toolkit with a simple and functional example.
 
-## Author
+## Author 🤓️
 
 - [@diegogirao](https://github.com/diego-girao)
