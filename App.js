@@ -1,4 +1,4 @@
-import { StyleSheet, Text, View, Button } from "react-native"
+import { StyleSheet, Text, View, Button, Alert } from "react-native"
 import { Provider, useSelector, useDispatch } from "react-redux"
 import { configureStore, createSlice } from "@reduxjs/toolkit"
 
@@ -14,7 +14,13 @@ const counterSlice = createSlice({
 			state.counter += 1
 		},
 		decrement: (state) => {
-			state.counter -= 1
+			if (state.counter === 0) {
+				Alert.alert("Aviso", "O contador já está zerado")
+			} else {
+				state.counter -= 1
+			}
+			// Usando o ternário para verificar se o valor do contador está em 0, se for true ele não diminui se false ele diminui
+			// state.counter = state.counter === 0 ? 0 : state.counter - 1
 		},
 	},
 })
