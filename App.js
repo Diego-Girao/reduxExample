@@ -14,11 +14,15 @@ const counterSlice = createSlice({
 			state.counter += 1
 		},
 		decrement: (state) => {
-			if (state.counter === 0) {
-				Alert.alert("Aviso", "O contador já está zerado")
-			} else {
-				state.counter -= 1
-			}
+			state.counter -= 1
+
+			// Verifica se o contador está zerado, se fo true mostra um alert com a mensagem "O contador já está zerado", se false ele diminui o valor
+			// if (state.counter === 0) {
+			// 	Alert.alert("Aviso", "O contador já está zerado")
+			// } else {
+			// 	state.counter -= 1
+			// }
+
 			// Usando o ternário para verificar se o valor do contador está em 0, se for true ele não diminui se false ele diminui
 			// state.counter = state.counter === 0 ? 0 : state.counter - 1
 		},
